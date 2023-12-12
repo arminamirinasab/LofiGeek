@@ -1,0 +1,5 @@
+# Folders should ignore
+static/
+media/
+
+# Files should ignore
